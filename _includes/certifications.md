@@ -2,7 +2,7 @@
 
 ---
 
-# 🏆 Certifications & Awards
+# 🏆 Certifications & Awards {#certifications}
 
 ---
 
