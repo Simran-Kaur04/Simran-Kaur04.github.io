@@ -1,3 +1,7 @@
+[Home](index.md) | [Projects](#projects) | [About](about.md) | [Download CV](assets/cv.pdf)
+
+---
+
 # 👋 Hi, I'm [Your Name]
 
 I'm a data professional with a background in Mathematics and Data Analytics. I work on real-world projects in machine learning, NLP, time series, and computer vision.
