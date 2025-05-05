@@ -14,7 +14,7 @@ layout: default
 
 ---
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Simran Kaur
 
 I'm a data professional with a background in Mathematics and Data Analytics. I work on real-world projects in machine learning, NLP, time series, and computer vision.
 
