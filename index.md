@@ -2,29 +2,49 @@
 layout: default
 ---
 
-{% include about.md %}
----
-{% include projects.md %}
----
-{% include certifications.md %}
----
+<div style="font-family:'Segoe UI',sans-serif;padding:20px;background:#fdfdfd;">
 
-[About](#about) | [Projects](#projects) | [Certifications](#certifications) | [Contact](#contact)
+<h1 style="color:#2c3e50;font-size:2.5rem;">👋 Siddharth Joshi</h1>
+<h3 style="color:#555;font-weight:normal;">Data Scientist | ML | Analytics</h3>
 
+<p style="margin-top:10px;margin-bottom:30px;">
+Welcome to my portfolio. Scroll down to explore my background, projects, and certifications.
+</p>
 
----
+<hr style="border:none;border-top:1px solid #ccc;margin:20px 0;"/>
 
-# 👋 Hi, I'm Simran Kaur
+<nav style="margin-bottom:30px;">
+  <a href="#about" style="margin-right:15px;color:#007acc;text-decoration:none;">About</a>
+  <a href="#projects" style="margin-right:15px;color:#007acc;text-decoration:none;">Projects</a>
+  <a href="#certifications" style="margin-right:15px;color:#007acc;text-decoration:none;">Certifications</a>
+  <a href="#contact" style="color:#007acc;text-decoration:none;">Contact</a>
+</nav>
 
-I'm a data professional with a background in Mathematics and Data Analytics. I work on real-world projects in machine learning, NLP, time series, and computer vision.
+<!-- About Section -->
+<div id="about">
+  {% include about.md %}
+</div>
 
-## 📁 Featured Projects
-- [NLP Text Classification](projects/nlp-text-classifier.md)
-- [Time Series Forecasting](projects/time-series.md)
-- [Image Classification with CNNs](projects/image-classification.md)
+<hr style="border:none;border-top:1px solid #ccc;margin:40px 0;"/>
 
-## 📄 [Download My CV](assets/cv.pdf)
+<!-- Projects Section -->
+<div id="projects">
+  {% include projects.md %}
+</div>
 
-## 🔗 Connect with me
-- [GitHub](https://github.com/Simran-Kaur04)
-- [LinkedIn](https://linkedin.com/in/Simran-Kaur0412)
+<hr style="border:none;border-top:1px solid #ccc;margin:40px 0;"/>
+
+<!-- Certifications Section -->
+<div id="certifications">
+  {% include certifications.md %}
+</div>
+
+<hr style="border:none;border-top:1px solid #ccc;margin:40px 0;"/>
+
+<!-- Contact Section -->
+<div id="contact">
+  {% include contact.md %}
+</div>
+
+</div>
+
