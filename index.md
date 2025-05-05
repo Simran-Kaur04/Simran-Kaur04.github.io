@@ -4,8 +4,8 @@ layout: default
 
 <div style="font-family:'Segoe UI',sans-serif;padding:20px;background:#fdfdfd;">
 
-<h1 style="color:#2c3e50;font-size:2.5rem;">👋 Siddharth Joshi</h1>
-<h3 style="color:#555;font-weight:normal;">Data Scientist | ML | Analytics</h3>
+<h1 style="color:#2c3e50;font-size:2.5rem;">👋 Simran Kaur</h1>
+<h3 style="color:#555;font-weight:normal;">Data Scientist | Analyst | ML Enthusiast</h3>
 
 <p style="margin-top:10px;margin-bottom:30px;">
 Welcome to my portfolio. Scroll down to explore my background, projects, and certifications.
