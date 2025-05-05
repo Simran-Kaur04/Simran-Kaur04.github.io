@@ -1,4 +1,4 @@
-[Home](index.md) | [Projects](#projects) | [About](about.md) | [Download CV](assets/cv.pdf)
+[Home](index.md) | [Projects](#projects) | [About](about.md) | [Certifications & Awards](certifications.md) | [Download CV](assets/cv.pdf)
 
 ---
 
