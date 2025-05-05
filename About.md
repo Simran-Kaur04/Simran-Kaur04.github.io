@@ -1,3 +1,7 @@
+[Home](index.md) | [Projects](#projects) | [About](about.md) | [Download CV](assets/cv.pdf)
+
+---
+
 # About Me
 
 I hold a Bachelor's and Master's in Mathematics, and recently completed a second Master's in Data Analytics (Data Science focused).
