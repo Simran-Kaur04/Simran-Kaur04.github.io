@@ -2,7 +2,7 @@
 
 ---
 
-# About Me
+# About Me {#about}
 
 I hold a Bachelor's and Master's in Mathematics, and recently completed a second Master's in Data Analytics (Data Science focused).
 
