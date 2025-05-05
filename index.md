@@ -1,4 +1,16 @@
-[Home](index.md) | [Projects](#projects) | [About](about.md) | [Certifications & Awards](certifications.md) | [Download CV](assets/cv.pdf)
+---
+layout: default
+---
+
+{% include about.md %}
+---
+{% include projects.md %}
+---
+{% include certifications.md %}
+---
+
+[About](#about) | [Projects](#projects) | [Certifications](#certifications) | [Contact](#contact)
+
 
 ---
 
