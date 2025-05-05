@@ -39,6 +39,6 @@
 </tr>
 <tr>
 <td><strong>🏆 Urkunde Deutschland Stipendium – M.Sc. Data Analytics 2023-24</strong></td>
-<td><img src="assets/awards/Urkunde-DS.jpg" alt="Urkunde-DS" width="300px"></td>
+<td><img src="assets/certs/Urkunde-DS.jpg" alt="Urkunde-DS" width="300px"></td>
 </tr>
 </table>
