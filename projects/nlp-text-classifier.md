@@ -1,3 +1,5 @@
+[About](#about) | [Projects](#projects) | [Certifications](#certifications) | [Contact](#contact)
+
 # NLP Text Classifier
 
 **Tags:** NLP, Text Classification, Scikit-learn, Python
