@@ -69,7 +69,6 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
 
 <h3 style="color:#ff9800;">📚 Education</h3>
 
-<div class="education-section">
   <div class="education-entry">
     <p><strong>M.Sc. in Data Analytics</strong><br>
     <strong>Stiftung Universität Hildesheim</strong> – Hildesheim, Germany<br>
@@ -93,7 +92,7 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
     <p><strong>Grade:</strong> 94.88%</p>
     <p><strong>Key Subjects:</strong> Calculus, Linear Algebra, Number Theory, Statistics, Programming</p>
   </div>
-</div>
+
 <hr style="border:0;border-top:1px solid #333;margin:30px 0;"/>
 
 <h3 style="color:#ff9800;">🛠️ Skills</h3>
