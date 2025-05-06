@@ -7,8 +7,8 @@
   <ul class="contact-list">
     <li><strong>Email:</strong> <a href="mailto: kaur.simran04@outlook.com">kaur.simran04@outlook.com</a></li>
     <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/simran-kaur0412" target="_blank">linkedin.com/in/simran-kaur0412</a></li>
-    <li><strong>GitHub:</strong> <a href="https://github.com/Simran=Kaur04" target="_blank">github.com/Simran-Kaur04</a></li>
-    <li><strong>Location:</strong> City, Country</li>
+    <li><strong>GitHub:</strong> <a href="https://github.com/Simran-Kaur04" target="_blank">github.com/Simran-Kaur04</a></li>
+    <li><strong>Location:</strong> Hildesheim, Germany</li>
   </ul>
 </div>
 
