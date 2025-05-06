@@ -63,8 +63,18 @@
 </div>
 
 <script>
-  function toggleCert(id) {
-    const img = document.getElementById(id);
-    img.style.display = (img.style.display === 'none' || img.style.display === '') ? 'block' : 'none';
-  }
+  document.addEventListener("DOMContentLoaded", function () {
+    const buttons = document.querySelectorAll(".toggle-btn");
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        const img = this.nextElementSibling;
+        if (img.style.display === "none" || img.style.display === "") {
+          img.style.display = "block";
+        } else {
+          img.style.display = "none";
+        }
+      });
+    });
+  });
 </script>
+
