@@ -54,7 +54,7 @@
 
 .cert-award-img {
   max-width: 100%;
-  width: 500px; /* or whatever fixed size you want */
+  width: 100px; /* or whatever fixed size you want */
   display: none;
   margin-top: 10px;
   border-radius: 8px;
