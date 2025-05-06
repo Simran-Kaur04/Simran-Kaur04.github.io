@@ -150,8 +150,42 @@
   padding: 15px 20px;
   margin-bottom: 20px;
   box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-}
+}:contentReference[oaicite:50]{index=50}
 
 .education-entry strong {
   color: #1a1a1a;
+}
+
+.skills-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.skill-block {
+  background-color: #1c1c1c;
+  padding: 20px;
+  border-left: 5px solid #ff9800;
+  border-radius: 10px;
+  box-shadow: 0 0 6px rgba(255,152,0,0.1);
+}
+
+.skill-block h3 {
+  margin-top: 0;
+  color: #ffcc80;
+  font-size: 1.1em;
+  border-bottom: 1px solid #333;
+  padding-bottom: 5px;
+}
+
+.skill-block ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.skill-block ul li {
+  padding: 4px 0;
+  color: #ccc;
 }
