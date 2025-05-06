@@ -144,16 +144,17 @@
 }
 
 .education-entry {
-  background-color: #f0f4f8;
-  border-left: 5px solid #f39c12;
-  border-radius: 12px;
-  padding: 15px 20px;
+  background-color: #1c1c1c;             /* dark background */
+  color: #f1f1f1;                        /* light text */
+  border-left: 5px solid #ff9800;        /* orange accent */
+  border-radius: 10px;
+  padding: 20px;
   margin-bottom: 20px;
-  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
-}:contentReference[oaicite:50]{index=50}
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
 
 .education-entry strong {
-  color: #1a1a1a;
+  color: #ffcc80;
 }
 
 .skills-section {
