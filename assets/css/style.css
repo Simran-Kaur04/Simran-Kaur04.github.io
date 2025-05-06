@@ -1,25 +1,56 @@
-:root {
-  --background: #111;
-  --foreground: #eee;
-  --accent: #ff9800;
-  --card-bg: #1c1c1c;
-  --glow: 0 0 8px rgba(255, 152, 0, 0.6);
+<style>
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  margin-top: 20px;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: 'Roboto', sans-serif;
+.project-card {
+  flex: 0 0 48%;
+  background-color: #1a1c23;
+  border-left: 5px solid #64b5f6;
+  border-radius: 12px;
+  padding: 20px;
+  color: #f1f1f1;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-a {
-  color: var(--accent);
-  text-shadow: var(--glow);
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(100, 181, 246, 0.5);
 }
 
-.card {
-  background: var(--card-bg);
-  padding: 1rem;
-  border-radius: 10px;
-  box-shadow: var(--glow);
+.project-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffb74d;
+  text-shadow: 0 0 4px rgba(255, 183, 77, 0.4);
 }
+
+.project-tools {
+  font-size: 13px;
+  font-style: italic;
+  color: #bbbbbb;
+  margin-top: 5px;
+}
+
+.project-desc {
+  font-size: 14px;
+  margin: 10px 0;
+  color: #dddddd;
+  line-height: 1.6;
+}
+
+.project-link {
+  font-size: 14px;
+  color: #64b5f6;
+  text-decoration: none;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
+</style>
