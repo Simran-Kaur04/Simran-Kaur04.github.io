@@ -1,51 +1,5 @@
 
-<style>
-.project-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: space-between;
-  margin-top: 20px;
-}
-
-.project-card {
-  flex: 0 0 48%;
-  background-color: #f0f4f8;
-  border-left: 5px solid #4a90e2;
-  border-radius: 12px;
-  padding: 20px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
-}
-
-.project-card:hover {
-  transform: translateY(-5px);
-}
-
-.project-title {
-  font-size: 18px;
-  font-weight: bold;
-  color: #1a1a1a;
-}
-
-.project-desc {
-  font-size: 14px;
-  margin: 10px 0;
-  color: #333;
-}
-
-.project-link {
-  font-size: 14px;
-  color: #4a90e2;
-  text-decoration: none;
-}
-
-.project-link:hover {
-  text-decoration: underline;
-}
-</style>
-
-<h3 id="projects">🚀 Projects</h3>
+<h3 id="projects" style="color:#ff9800;text-shadow:0 0 8px rgba(255,152,0,0.4);margin-bottom:20px;">🚀 Projects</h3>
 
 <div class="project-grid">
 
