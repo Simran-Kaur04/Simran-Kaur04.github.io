@@ -1,17 +1,17 @@
 <div style="padding:20px;background-color:#fefefe;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,0.05);">
 
-<h2 id="certifications" style="color:#2c3e50;">🏆 Certifications & Awards</h2>
+  <h2 id="certifications" style="color:#2c3e50;">🏆 Certifications & Awards</h2>
 
-<hr style="border:none;border-top:1px solid #ddd;margin:20px 0;"/>
+  <hr style="border:none;border-top:1px solid #ddd;margin:20px 0;"/>
 
-<h3 style="color:#007acc;">📜 Online Certifications</h3>
+  <h3 style="color:#007acc;">📜 Online Certifications</h3>
 
-<ul style="line-height:2;font-size:16px;">
-  <li>
-    <strong>SQL for Data Science – Coursera</strong><br/>
-    <a href="https://coursera.org/share/5a0f4963cfc89c23092deef0eb93c342" target="_blank" style="color:#007acc;">View on Coursera</a>
-  </li>
-  <li>
+  <ul style="line-height:2;font-size:16px;">
+    <li>
+      <strong>SQL for Data Science – Coursera</strong><br/>
+      <a href="https://coursera.org/share/5a0f4963cfc89c23092deef0eb93c342" target="_blank" style="color:#007acc;">View on Coursera</a>
+    </li>
+    <li>
     <strong>Python 3 Programming – Coursera</strong><br/>
     <ul style="list-style-type:circle;margin-left:20px;">
       <li><a href="https://coursera.org/share/ef13dde4fd7e6bca99e6d583f0b91281" style="color:#007acc;">Course 1: Python Basics</a></li>
@@ -41,12 +41,10 @@
 
 <div style="margin-bottom:40px;">
   <p><strong>🏆 Urkunde Minerva-Kolleg – M.Sc. Data Analytics 2022–23</strong></p>
-  <img src="assets/certs/Urkunde-Minerva.jpg" alt="Urkunde Minerva" style="width:100%;max-width:400px;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,0.1);">
+  <img src="assets/certs/Urkunde-Minerva.jpg" alt="Urkunde-Minerva" style="width:100%;max-width:400px;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,0.1);margin-bottom:30px;">
 </div>
 
+<div style="margin-bottom:40px;">
+  <p><strong>🏆 Urkunde Deutschland Stipendium – M.Sc. Data Analytics 2023-24</strong></p>
+  <img src="assets/certs/Urkunde-DS.jpg" alt="Urkunde-DS" style="width:100%;max-width:400px;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,0.1);margin-bottom:30px;">
 </div>
-
-<td><strong>🏆 Urkunde Deutschland Stipendium – M.Sc. Data Analytics 2023-24</strong></td>
-<td><img src="assets/certs/Urkunde-DS.jpg" alt="Urkunde-DS" width="300px"></td>
-</tr>
-</table>
