@@ -143,3 +143,15 @@
   text-decoration: underline;
 }
 
+.education-entry {
+  background-color: #f0f4f8;
+  border-left: 5px solid #f39c12;
+  border-radius: 12px;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+.education-entry strong {
+  color: #1a1a1a;
+}
