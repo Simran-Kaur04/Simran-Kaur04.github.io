@@ -1,56 +1,53 @@
-<style>
-.project-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: space-between;
-  margin-top: 20px;
-}
-
-.project-card {
-  flex: 0 0 48%;
-  background-color: #1a1c23;
-  border-left: 5px solid #64b5f6;
-  border-radius: 12px;
+.cert-section {
   padding: 20px;
-  color: #f1f1f1;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #fefefe;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
 
-.project-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 16px rgba(100, 181, 246, 0.5);
+.cert-section h2,
+.cert-section h3 {
+  color: #2c3e50;
 }
 
-.project-title {
-  font-size: 18px;
-  font-weight: bold;
-  color: #ffb74d;
-  text-shadow: 0 0 4px rgba(255, 183, 77, 0.4);
+.cert-section h3 {
+  color: #007acc;
+  margin-top: 30px;
 }
 
-.project-tools {
-  font-size: 13px;
-  font-style: italic;
-  color: #bbbbbb;
-  margin-top: 5px;
+.cert-list {
+  list-style: none;
+  padding-left: 0;
+  font-size: 16px;
 }
 
-.project-desc {
-  font-size: 14px;
-  margin: 10px 0;
-  color: #dddddd;
-  line-height: 1.6;
+.cert-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 20px;
 }
 
-.project-link {
-  font-size: 14px;
-  color: #64b5f6;
+.cert-item img {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.cert-item a {
+  color: #007acc;
   text-decoration: none;
 }
 
-.project-link:hover {
+.cert-item a:hover {
   text-decoration: underline;
 }
-</style>
+
+.cert-award-img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
