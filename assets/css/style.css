@@ -44,20 +44,15 @@
   text-decoration: underline;
 }
 
-.cert-award-img {
-  width: 100%;
-  max-width: 400px;
-  border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
-}
-
+<style>
 .cert-award-img {
   display: none;
   width: 100%;
   max-width: 400px;
+  height: 300px;
+  object-fit: contain;  /* Or try 'cover' if you want it cropped */
   border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
   margin-top: 15px;
 }
 
@@ -77,3 +72,4 @@
 .toggle-btn:hover {
   background-color: #005f99;
 }
+</style>
