@@ -1,79 +1,53 @@
 /* === Certification Section Styling === */
 .cert-section {
-  padding: 20px;
-  background-color: #fefefe;
+  background-color: #121212;
+  padding: 40px 20px;
+  color: #f5f5f5;
   border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-}
-
-.cert-section h2 {
-  color: #2c3e50;
-}
-
-.cert-section h3 {
-  color: #007acc;
-  margin-top: 30px;
 }
 
 .cert-list {
   list-style: none;
-  padding-left: 0;
-  font-size: 16px;
+  padding: 0;
 }
 
-/* === Individual Certificate Item === */
 .cert-item {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
-.cert-icon {
-  width: 32px;
-  height: 32px;
-  margin-right: 10px;
-  vertical-align: middle;
+.cert-item img {
+  width: 40px;
+  height: 40px;
   border-radius: 5px;
   object-fit: cover;
 }
 
-.cert-item a {
-  color: #007acc;
-  text-decoration: none;
-}
-
-.cert-item a:hover {
-  text-decoration: underline;
-}
-
-/* === Awards Toggle Button + Image === */
 .cert-award-img {
   display: none;
-  width: 100%;
-  max-width: 400px;
-  height: 300px;
-  object-fit: contain;
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  border: 1px solid #444;
   border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
-  margin-top: 15px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
 }
 
 .toggle-btn {
-  display: inline-block;
   margin-top: 5px;
   padding: 6px 12px;
-  background-color: #007acc;
-  color: #fff;
+  font-size: 0.9em;
+  background-color: #333;
+  color: #ff9800;
   border: none;
-  border-radius: 6px;
+  border-radius: 5px;
   cursor: pointer;
-  font-size: 14px;
-  transition: background-color 0.2s ease;
 }
 
 .toggle-btn:hover {
-  background-color: #005f99;
+  background-color: #444;
 }
 
 .education-section {
