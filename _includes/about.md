@@ -98,41 +98,6 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
 
 <h3 style="color:#ff9800;">🛠️ Skills</h3>
 
-<style>
-.skills-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 30px;
-  margin-top: 20px;
-}
-
-.skill-block {
-  background-color: #1c1c1c;
-  padding: 20px;
-  border-left: 5px solid #ff9800;
-  border-radius: 10px;
-  box-shadow: 0 0 6px rgba(255,152,0,0.1);
-}
-
-.skill-block h3 {
-  margin-top: 0;
-  color: #ffcc80;
-  font-size: 1.1em;
-  border-bottom: 1px solid #333;
-  padding-bottom: 5px;
-}
-
-.skill-block ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-.skill-block ul li {
-  padding: 4px 0;
-  color: #ccc;
-}
-</style>
 
 <div class="skills-section">
 
