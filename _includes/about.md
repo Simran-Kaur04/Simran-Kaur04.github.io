@@ -69,7 +69,7 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
 
 <h3 style="color:#ff9800;">🎓 Education</h3>
 <div class="education-section">
-  <div class="edu-card">
+  <div class="education-entry">
     <h4>M.Sc. in Data Analytics</h4>
     <p><strong>Stiftung Universität Hildesheim</strong> – Hildesheim, Germany</p>
     <p class="edu-dates">Apr 2021 – Feb 2025</p>
@@ -77,7 +77,7 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
     <p><strong>Key Subjects:</strong> Machine Learning, Big Data, NLP, Computer Vision, Time Series Analysis, Distributed Data Analytics</p>
   </div>
 
-  <div class="edu-card">
+  <div class="education-entry">
     <h4>M.Sc. in Applied Mathematics</h4>
     <p><strong>NIT Warangal</strong> – Warangal, India</p>
     <p class="edu-dates">Jul 2017 – Jun 2019</p>
@@ -85,7 +85,7 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
     <p><strong>Key Subjects:</strong> Numerical Analysis, Data Structures, Mathematical Programming, Queueing Theory, Fluid Dynamics</p>
   </div>
 
-  <div class="edu-card">
+  <div class="education-entry">
     <h4>B.Sc. (Hons.) Mathematics</h4>
     <p><strong>University of Delhi</strong> – Delhi, India</p>
     <p class="edu-dates">Jul 2014 – Jun 2017</p>
