@@ -53,20 +53,16 @@
 }
 
 .cert-award-img {
-  display: none;
-  opacity: 0;
   max-width: 100%;
-  height: auto;
+  width: 500px; /* or whatever fixed size you want */
+  display: none;
   margin-top: 10px;
   border-radius: 8px;
-  transition: opacity 0.4s ease-in-out;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
-  border: 1px solid #444;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: all 0.3s ease-in-out;
 }
-
 .cert-award-img.show {
   display: block;
-  opacity: 1;
 }
 
 .education-section {
