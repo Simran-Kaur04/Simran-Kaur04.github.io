@@ -67,32 +67,33 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
 
 <hr style="border:0;border-top:1px solid #333;margin:30px 0;"/>
 
-<h3 id="education">📚 Education</h3>
+<h3 style="color:#ff9800;">📚 Education</h3>
 
-<div class="education-entry">
-  <p><strong>M.Sc. in Data Analytics</strong><br>
-  <strong>Stiftung Universität Hildesheim</strong> – Hildesheim, Germany<br>
-  Apr 2021 – Feb 2025</p>
-  <p><strong>Grade:</strong> 1.5</p>
-  <p><strong>Key Subjects:</strong> Machine Learning, Big Data, NLP, Computer Vision, Time Series Analysis, Distributed Data Analytics</p>
+<div class="education">
+  <div class="education-entry">
+    <p><strong>M.Sc. in Data Analytics</strong><br>
+    <strong>Stiftung Universität Hildesheim</strong> – Hildesheim, Germany<br>
+    Apr 2021 – Feb 2025</p>
+    <p><strong>Grade:</strong> 1.5</p>
+    <p><strong>Key Subjects:</strong> Machine Learning, Big Data, NLP, Computer Vision, Time Series Analysis, Distributed Data Analytics</p>
+  </div>
+  
+  <div class="education-entry">
+    <p><strong>M.Sc. in Applied Mathematics</strong><br>
+    <strong>NIT Warangal</strong> – Warangal, India<br>
+    Jul 2017 – Jun 2019</p>
+    <p><strong>Grade:</strong> 8.57 CGPA</p>
+    <p><strong>Key Subjects:</strong> Numerical Analysis, Data Structures, Mathematical Programming, Queueing Theory, Fluid Dynamics</p>
+  </div>
+  
+  <div class="education-entry">
+    <p><strong>B.Sc. (Hons.) Mathematics</strong><br>
+    <strong>University of Delhi</strong> – Delhi, India<br>
+    Jul 2014 – Jun 2017</p>
+    <p><strong>Grade:</strong> 94.88%</p>
+    <p><strong>Key Subjects:</strong> Calculus, Linear Algebra, Number Theory, Statistics, Programming</p>
+  </div>
 </div>
-
-<div class="education-entry">
-  <p><strong>M.Sc. in Applied Mathematics</strong><br>
-  <strong>NIT Warangal</strong> – Warangal, India<br>
-  Jul 2017 – Jun 2019</p>
-  <p><strong>Grade:</strong> 8.57 CGPA</p>
-  <p><strong>Key Subjects:</strong> Numerical Analysis, Data Structures, Mathematical Programming, Queueing Theory, Fluid Dynamics</p>
-</div>
-
-<div class="education-entry">
-  <p><strong>B.Sc. (Hons.) Mathematics</strong><br>
-  <strong>University of Delhi</strong> – Delhi, India<br>
-  Jul 2014 – Jun 2017</p>
-  <p><strong>Grade:</strong> 94.88%</p>
-  <p><strong>Key Subjects:</strong> Calculus, Linear Algebra, Number Theory, Statistics, Programming</p>
-</div>
-
 <hr style="border:0;border-top:1px solid #333;margin:30px 0;"/>
 
 <h3 style="color:#ff9800;">🛠️ Skills</h3>
