@@ -9,7 +9,7 @@
       <img src="assets/certs/sql.png" alt="SQL Cert">
       <div>
         <strong>SQL for Data Science – Coursera</strong><br/>
-        <a href="https://coursera.org/share/5a0f4963cfc89c23092deef0eb93c342" target="_blank">View on Coursera</a>
+        <a href="https://coursera.org/share/5a0f4963cfc89c23092deef0eb93c342" style="color:#007acc>View on Coursera</a>
       </div>
     </li>
     <li style="display:flex;align-items:flex-start;gap:10px;margin-bottom:20px;">
@@ -62,4 +62,18 @@
 
 </div>
 
-
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const buttons = document.querySelectorAll(".toggle-btn");
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", function () {
+        const img = this.nextElementSibling;
+        if (img.style.display === "none" || img.style.display === "") {
+          img.style.display = "block";
+        } else {
+          img.style.display = "none";
+        }
+      });
+    });
+  });
+</script>
