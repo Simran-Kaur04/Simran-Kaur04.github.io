@@ -1,7 +1,7 @@
+<h3 id="projects" style="color:#ff9800;text-shadow:0 0 8px rgba(255,152,0,0.4);margin-bottom:20px;">🏆 Certifications & Awards</h3>
+ <hr/>
+ 
 <div class="cert-section">
-
-  <h2 id="certifications">🏆 Certifications & Awards</h2>
-  <hr/>
 
   <h3>📜 Online Certifications</h3>
   <ul class="cert-list">
@@ -62,19 +62,4 @@
 
 </div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const buttons = document.querySelectorAll(".toggle-btn");
-    buttons.forEach((btn) => {
-      btn.addEventListener("click", function () {
-        const img = this.nextElementSibling;
-        if (img.style.display === "none" || img.style.display === "") {
-          img.style.display = "block";
-        } else {
-          img.style.display = "none";
-        }
-      });
-    });
-  });
-</script>
 
