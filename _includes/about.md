@@ -69,7 +69,7 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
 
 <h3 style="color:#ff9800;">📚 Education</h3>
 
-<div class="education">
+<div class="education-section">
   <div class="education-entry">
     <p><strong>M.Sc. in Data Analytics</strong><br>
     <strong>Stiftung Universität Hildesheim</strong> – Hildesheim, Germany<br>
