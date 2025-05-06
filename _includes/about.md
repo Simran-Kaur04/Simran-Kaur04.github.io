@@ -1,5 +1,3 @@
-# About Me {#about}
-
 <div style="background-color:#111;padding:25px;border-radius:12px;box-shadow:0 0 10px rgba(255,152,0,0.15);font-family:'Segoe UI',sans-serif;color:#eee;">
 
 <h2 style="color:#ff9800;">🧑‍💻 About Me</h2>
@@ -70,28 +68,30 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
 <hr style="border:0;border-top:1px solid #333;margin:30px 0;"/>
 
 <h3 style="color:#ff9800;">🎓 Education</h3>
-<div style="margin-bottom: 20px;">
-  <h4 style="color:#fff;">M.Sc. in Data Analytics</h4>
-  <p><strong>Stiftung Universität Hildesheim</strong> – Hildesheim, Germany<br>
-  <em>Apr 2021 - Feb 2025</em></p>
-  <p><strong>Grade:</strong> 1.5</p>
-  <p><strong>Key Subjects:</strong> Machine Learning, Big Data, Natural Language Processing, Computer Vision, Time Series Analysis, Distributed Data Analytics</p>
-</div>
+<div class="education-section">
+  <div class="edu-card">
+    <h4>M.Sc. in Data Analytics</h4>
+    <p><strong>Stiftung Universität Hildesheim</strong> – Hildesheim, Germany</p>
+    <p class="edu-dates">Apr 2021 – Feb 2025</p>
+    <p><strong>Grade:</strong> 1.5</p>
+    <p><strong>Key Subjects:</strong> Machine Learning, Big Data, NLP, Computer Vision, Time Series Analysis, Distributed Data Analytics</p>
+  </div>
 
-<div style="margin-bottom: 20px;">
-  <h4 style="color:#fff;">M.Sc. in Applied Mathematics</h4>
-  <p><strong>NIT Warangal</strong> – Warangal, India<br>
-  <em>Jul 2017 - Jun 2019</em></p>
-  <p><strong>Grade:</strong> 8.57 CGPA</p>
-  <p><strong>Key Subjects:</strong> Numerical Analysis, Computer Programming & Data Structures, Mathematical Programming, "Inventory, Queueing Theory and Non-Linear Programming", Mechanics, Fluid Dynamics</p>
-</div>
+  <div class="edu-card">
+    <h4>M.Sc. in Applied Mathematics</h4>
+    <p><strong>NIT Warangal</strong> – Warangal, India</p>
+    <p class="edu-dates">Jul 2017 – Jun 2019</p>
+    <p><strong>Grade:</strong> 8.57 CGPA</p>
+    <p><strong>Key Subjects:</strong> Numerical Analysis, Data Structures, Mathematical Programming, Queueing Theory, Fluid Dynamics</p>
+  </div>
 
-<div>
-  <h4 style="color:#fff;">B.Sc. (Hons.) Mathematics</h4>
-  <p><strong>University of Delhi</strong> – Delhi, India<br>
-  <em>Jul 2014 - Jun 2017</em></p>
-  <p><strong>Grade:</strong> 94.88%</p>
-  <p><strong>Key Subjects:</strong> Calculus, Linear Algebra, Numerical Methods & Programming, Analysis, Numerical Programming, Number Theory, Probability & Statistics</p>
+  <div class="edu-card">
+    <h4>B.Sc. (Hons.) Mathematics</h4>
+    <p><strong>University of Delhi</strong> – Delhi, India</p>
+    <p class="edu-dates">Jul 2014 – Jun 2017</p>
+    <p><strong>Grade:</strong> 94.88%</p>
+    <p><strong>Key Subjects:</strong> Calculus, Linear Algebra, Number Theory, Statistics, Programming</p>
+  </div>
 </div>
 
 <hr style="border:0;border-top:1px solid #333;margin:30px 0;"/>
@@ -143,7 +143,7 @@ I’m a data enthusiast with a strong foundation in Mathematics and an advanced 
       <li>Statistical Modeling</li>
       <li>Quantitative Analysis</li>
       <li>Data Pipelines</li>
-      <li>OOP & API Development</li>l
+      <li>OOP & API Development</li>
       <li>Cloud Computing</li>
       <li>Artificial Intelligence / GenAI</li>
       <li>Innovative & Analytical Thinking</li>
