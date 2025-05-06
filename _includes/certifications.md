@@ -44,20 +44,20 @@
   <h3>🏅 Awards</h3>
   <div>
     <p><strong>🏆 College Topper – B.Sc. (Hons.) Mathematics 2017–18</strong></p>
-    <button class="toggle-btn" onclick="toggleCert('cert1')">View Certificate</button>
-    <img src="assets/certs/College-topper.jpg" alt="College Topper" class="cert-award-img">
+    <button class="toggle-btn" onclick="toggleCert('cert1')">View Certificate</button><br/>
+    <img src="assets/certs/College-topper.jpg" alt="College Topper" class="cert-award-img" id="cert1">
   </div>
 
   <div>
     <p><strong>🏆 Urkunde Minerva-Kolleg – M.Sc. Data Analytics 2022–23</strong></p>
-    <button class="toggle-btn" onclick="toggleCert('cert1')">View Certificate</button>
-    <img src="assets/certs/Urkunde-Minerva.jpg" alt="Urkunde Minerva" class="cert-award-img">
+    <button class="toggle-btn" onclick="toggleCert('cert1')">View Certificate</button><br/>
+    <img src="assets/certs/Urkunde-Minerva.jpg" alt="Urkunde Minerva" class="cert-award-img" id="cert2">
   </div>
 
   <div>
     <p><strong>🏆 Urkunde Deutschland Stipendium – M.Sc. Data Analytics 2023-24</strong></p>
-    <button class="toggle-btn" onclick="toggleCert('cert1')">View Certificate</button>
-    <img src="assets/certs/Urkunde-DS.jpg" alt="Urkunde-DS" class="cert-award-img">
+    <button class="toggle-btn" onclick="toggleCert('cert1')">View Certificate</button><br/>
+    <img src="assets/certs/Urkunde-DS.jpg" alt="Urkunde-DS" class="cert-award-img" id="cert3">
   </div>
 
 </div>
