@@ -78,12 +78,17 @@
     <a class="project-link" href="https://github.com/Simran-Kaur04/ML_project" target="_blank">View on GitHub</a>
   </div>
 
-  ### 🧠 Machine Learning Lab – [GitHub](https://github.com/Simran-Kaur04/Machine-Learning)
-  
-  Implemented key ML models (Logistic Regression, Decision Trees, k-NN) from scratch using NumPy, Pandas, Scikit-learn etc. Evaluated model performance with cross-validation and confusion matrices on various datasets.
-  
-  ### 🌐 Distributed Data Analytics Lab – [GitHub](https://github.com/Simran-Kaur04/Distributed-Data-Analytics)
-  
-  Worked with Spark (PySpark), Hadoop, and distributed file systems to process large datasets. Built ETL pipelines and analyzed data in distributed environments.
+  <div class="project-card">
+    <div class="project-title">🧠 Machine Learning Lab</div>
+    <div class="project-desc">Implemented key ML models (Logistic Regression, Decision Trees, k-NN) from scratch using NumPy, Pandas, Scikit-learn etc. Evaluated model performance with cross-validation and confusion 
+     matrices on various datasets.</div>
+    <a class="project-link" href="https://github.com/Simran-Kaur04/Machine-Learning" target="_blank">View on GitHub</a>
+  </div>
+
+  <div class="project-card">
+    <div class="project-title">🌐 Distributed Data Analytics Lab</div>
+    <div class="project-desc">Worked with Spark (PySpark), Hadoop, and distributed file systems to process large datasets. Built ETL pipelines and analyzed data in distributed environments.</div>
+    <a class="project-link" href="https://github.com/Simran-Kaur04/Distributed-Data-Analytics" target="_blank">View on GitHub</a>
+  </div>
 
 </div>
